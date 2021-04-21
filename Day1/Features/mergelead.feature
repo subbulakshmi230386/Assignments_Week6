@@ -1,6 +1,6 @@
 Feature: Merge lead for Leaftaps
 
-Scenario: TC0003_Mergelead 
+Scenario:TC0003_Mergelead 
 
 Given Open the chrome browser
 And Load the application url
