@@ -3,7 +3,7 @@ import org.openqa.selenium.By;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
-public class DuplicateLead extends BaseClass 
+public class DuplicateLead 
 {
 	@Given("Find Lead clicked")
 	public void find_lead_clicked()
