@@ -2,7 +2,7 @@ Feature: Edit lead for Leaftaps
 
 
 
-Scenario: TC002_editlead 
+Scenario:TC002_editlead 
 
 Given Open the chrome browser
 And Load the application url
