@@ -2,7 +2,7 @@ Feature: delete lead for Leaftaps
 
 
 
-Scenario: TC0004_deletelead 
+Scenario:TC0004_deletelead 
 
 Given Open the chrome browser
 And Load the application url
