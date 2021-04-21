@@ -8,7 +8,7 @@ import org.openqa.selenium.By;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-public class MergeLead extends BaseClass
+public class MergeLead 
 {
 	List<String> allhandles = new ArrayList<String>();
 	List<String> allhandles2 = new ArrayList<String>();
