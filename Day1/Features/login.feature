@@ -1,7 +1,7 @@
 Feature: Login Functionality for LeafTabs
 
 
-Scenario Outline: TC001_Login with Postive Credential
+Scenario Outline:TC001_Login with Postive Credential
     Given Open the chrome browser
     And Load the application url
     Given Enter the username as <username>
