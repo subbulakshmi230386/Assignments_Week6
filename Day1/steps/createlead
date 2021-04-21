@@ -77,7 +77,7 @@ public void errorHomePage()
 	@And("Enter the Company Name as {string}")
 	public void company_name(String cname)
 	{
-		driver.findElement(By.id("createLeadForm_companyName")).sendKeys(cname);
+	driver.findElement(By.id("createLeadForm_companyName")).sendKeys(cname);
 	}
 	@And("Enter the First Name as {string}")
 	public void first_name(String fname)
