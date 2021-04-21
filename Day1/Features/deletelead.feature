@@ -22,4 +22,4 @@ And Click Delete
 And Click Find Lead to check
 And Send lead Id deleted
 And Click Find Leads Deleted
-Then Get Error Message
+Then Get Error Messag
